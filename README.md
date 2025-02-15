@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: using unsafe raw pointers to manipulate vectors.  The example showcases how modifying vector elements through a raw pointer can lead to undefined behavior if not done correctly.  The solution provides a safer alternative using vector indexing.
